@@ -1,6 +1,6 @@
 import re
 
-filename = 'day3/input3-1.txt'
+filename = 'day3/input3.txt'
 with open(filename) as f:
     lines = f.read().splitlines()
 

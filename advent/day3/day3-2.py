@@ -1,7 +1,7 @@
 import re
 from functools import reduce
 
-filename = 'day3/input3-2.txt'
+filename = 'day3/input3.txt'
 
 with open(filename) as f:
     lines = f.read().splitlines()

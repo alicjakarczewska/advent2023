@@ -1,5 +1,5 @@
 const fs = require("fs");
-const data = fs.readFileSync("./day1/input1-1.txt", "utf-8").split("\n");
+const data = fs.readFileSync("./day1/input1.txt", "utf-8").split("\n");
 
 const digits = "0123456789".split("");
 

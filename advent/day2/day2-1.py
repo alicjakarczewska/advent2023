@@ -1,4 +1,4 @@
-filename = 'day2/input2-1.txt'
+filename = 'day2/input2.txt'
 with open(filename) as f:
     lines = f.read().splitlines()
 
