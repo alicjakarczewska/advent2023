@@ -8,7 +8,7 @@ with open(filename) as f:
 
 result = 0
 
-for i,line in enumerate(lines):
+for i, line in enumerate(lines):
     splitted = line.split(':')
 
     num_lists = splitted[1].split('|')
